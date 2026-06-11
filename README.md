@@ -22,6 +22,7 @@ This project analyzes personal financial data using Power BI. The dashboard prov
 * Excel
 
 ## Dashboard Preview
+<img width="1416" height="796" alt="Financial Health Report Dashboard" src="https://github.com/user-attachments/assets/32d64fd8-b8a3-4ef9-a2a9-c3f4f117727e" />
 
 
 ## Author
