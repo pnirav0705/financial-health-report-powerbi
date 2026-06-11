@@ -2,6 +2,10 @@
 Financial Health Report Dashboard created using Power BI.
 # Financial Health Report Dashboard
 
+Intern Details
+
+Intern ID: CITS2634
+
 ## Project Overview
 
 This project analyzes personal financial data using Power BI. The dashboard provides insights into income, expenses, savings, credit score trends, and loan distribution through interactive visualizations.
